@@ -24,10 +24,9 @@ This is a little repository to learn more about me ✅ &nbsp;
 ### First of all, a few personal stuffs:
 
 - I'm from Mérida - Venezuela 🟡🔵🔴
-- I'm Economics and Lawyer 🤖
-- I'm Master of Science in Quantitative Economic.
-- I've been learnig about Data Science 🧪
-- I'm currently learning Python 🐍 and JavaScript 👀  
+- I'm Graphic Designer
+- I'm Frontend Development.
+- I'm Game Developer 🎮
 
 ### Tech Stack 🛠️
 
@@ -47,7 +46,7 @@ This is a little repository to learn more about me ✅ &nbsp;
 ### Conect with me 🤝🏻
 <p align="left">
     <a href="https://www.linkedin.com/in/wilmer-alexander-mogollon-brice%C3%B1o-772971118/" target="_blank"><img alt="LinkedIn" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
-    <a href="mailto:mogollonwilmer@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+    <a href="mailto:liomendez05@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
 </p>  
      
 <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=balechon&show_icons=true&theme=radical)     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balechon&layout=compact)](https://github.com/balechon/github-readme-stats) -->
